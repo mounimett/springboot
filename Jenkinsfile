@@ -1,4 +1,4 @@
-def registry = 'https://ncpljfrog.jfrog.io'
+def registry = 'https://mettu.jfrog.io'
 pipeline {
     tools {
         maven "Maven3"
